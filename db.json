@@ -11,6 +11,16 @@
       "id": 1,
       "body": "some comment",
       "postId": 1
+    },
+    {
+      "title": "idk",
+      "author": "Jasmine",
+      "id": 2
+    },
+    {
+      "title": "yee",
+      "author": "owa",
+      "id": 3
     }
   ],
   "profile": {
